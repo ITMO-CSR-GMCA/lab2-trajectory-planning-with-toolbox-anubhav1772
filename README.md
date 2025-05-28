@@ -2,6 +2,14 @@
 
 ### Second laboratory work for course Robot Motion Planning and Control.
 
+#### Robotic Arm Used - UR5 (from Universal Robots)
+
+ <table>
+  <tr>
+    <td><img src="ur5.png" alt="ur5" width="600"></td>
+  </tr>
+</table>
+
  <table>
   <tr>
     <td>Joint Space Trajectory</td>
@@ -9,9 +17,9 @@
     <td>Quintic Polynomial Interpolation</td>
   </tr>
   <tr>
-    <td><img src="puma_jtraj.gif" alt="jtraj plan" width="300"></td>
-    <td><img src="puma_trap.gif" alt="trap plan" width="300"></td>
-    <td><img src="puma_quin.gif" alt="quin plan" width="300"></td>
+    <td><img src="ur5_jtraj.gif" alt="jtraj plan" width="300"></td>
+    <td><img src="ur5_trap.gif" alt="trap plan" width="300"></td>
+    <td><img src="ur5_quin.gif" alt="quin plan" width="300"></td>
   </tr>
   <tr>
     <td>jtraj Method</td>
@@ -21,7 +29,7 @@
 </table>
  
 
-#### Joint Position/Velocity/Acceleration Profile of PUMA Robotic Arm
+#### Joint Position/Velocity/Acceleration Profile of UR5 Robotic Arm
 
 <table>
   <tr>
