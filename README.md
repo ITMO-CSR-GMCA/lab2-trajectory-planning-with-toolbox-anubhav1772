@@ -4,9 +4,9 @@
 
 #### Robotic Arm Used - UR5 (from Universal Robots)
 
- <table>
+<table align="center">
   <tr>
-    <td><img src="ur5.png" alt="ur5" width="600"></td>
+    <td><img src="ur5.png" alt="ur5" width="250"></td>
   </tr>
 </table>
 
@@ -17,9 +17,9 @@
     <td>Quintic Polynomial Interpolation</td>
   </tr>
   <tr>
-    <td><img src="ur5_jtraj.gif" alt="jtraj plan" width="300"></td>
-    <td><img src="ur5_trap.gif" alt="trap plan" width="300"></td>
-    <td><img src="ur5_quin.gif" alt="quin plan" width="300"></td>
+    <td><img src="ur5_jtraj.gif" alt="jtraj plan" width="200"></td>
+    <td><img src="ur5_trap.gif" alt="trap plan" width="200"></td>
+    <td><img src="ur5_quin.gif" alt="quin plan" width="200"></td>
   </tr>
   <tr>
     <td>jtraj Method</td>
