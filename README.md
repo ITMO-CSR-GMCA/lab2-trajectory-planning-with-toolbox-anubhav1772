@@ -17,9 +17,9 @@
     <td>Quintic Polynomial Interpolation</td>
   </tr>
   <tr>
-    <td><img src="ur5_jtraj.gif" alt="jtraj plan" width="200"></td>
-    <td><img src="ur5_trap.gif" alt="trap plan" width="200"></td>
-    <td><img src="ur5_quin.gif" alt="quin plan" width="200"></td>
+    <td><img src="ur5_jtraj.gif" alt="jtraj plan" width="260"></td>
+    <td><img src="ur5_trap.gif" alt="trap plan" width="260"></td>
+    <td><img src="ur5_quin.gif" alt="quin plan" width="260"></td>
   </tr>
   <tr>
     <td>jtraj Method</td>
