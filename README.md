@@ -1,34 +1,35 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oxMPd-Kw)
 
-Second laboratory work for course Robot Motion Planning and Control.
+### Second laboratory work for course Robot Motion Planning and Control.
 
-<table>
+ <table>
   <tr>
-    <td>Filtered PointCloud Data</td>
-     <td>Generated Octomap</td>
-     <td>Collision disabled for 3 objects</td>
+    <td>jtraj Method</td>
+    <td>mtraj method with the trapezoidal function</td>
+    <td>mtraj method with the quantic function</td>
   </tr>
   <tr>
-    ![jtraj Image](data/puma_jtraj.gif)
-    ![trap Image](data/puma_trap.gif)
-    ![quin Image](data/puma_quin.gif)
+    <td><img src="puma_jtraj.gif" alt="jtraj plan" width="400"></td>
+    <td><img src="puma_trap.gif" alt="trap plan" width="400"></td>
+    <td><img src="puma_quin.gif" alt="quin plan" width="400"></td>
   </tr>
- </table>
+</table>
+ 
 
-### Joint Position/Velocity/Acceleration Profile of PUMA Robotic Arm
+#### Joint Position/Velocity/Acceleration Profile of PUMA Robotic Arm
 
 <table>
   <tr>
     <td>Joint Positions</td>
-     <td>Joint Velocities</td>
-     <td>Joine Accelerations</td>
+    <td>Joint Velocities</td>
+    <td>Joint Accelerations</td>
   </tr>
   <tr>
-    ![pos Image](data/pos_profiles.png)
-    ![vel Image](data/vel_profiles.png)
-    ![acc Image](data/acc_profiles.png)
+    <td><img src="pos_profiles.png" alt="Position Profile" width="300"></td>
+    <td><img src="vel_profiles.png" alt="Velocity Profile" width="300"></td>
+    <td><img src="acc_profiles.png" alt="Acceleration Profile" width="300"></td>
   </tr>
- </table>
+</table>
 
 ### Tasks:
 1. Load the manipulator model from the toolbox according to the selected robot kinematics option. Fill in all parameters of the robot model as specified in Laboratory Work No. 1.
