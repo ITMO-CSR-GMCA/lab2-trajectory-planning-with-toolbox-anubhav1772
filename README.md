@@ -4,14 +4,19 @@
 
  <table>
   <tr>
+    <td>Joint Space Trajectory</td>
+    <td>Linear Segment with Parabolic Blend (LSPB)</td>
+    <td>Quintic Polynomial Interpolation</td>
+  </tr>
+  <tr>
+    <td><img src="puma_jtraj.gif" alt="jtraj plan" width="300"></td>
+    <td><img src="puma_trap.gif" alt="trap plan" width="300"></td>
+    <td><img src="puma_quin.gif" alt="quin plan" width="300"></td>
+  </tr>
+  <tr>
     <td>jtraj Method</td>
     <td>mtraj method with the trapezoidal function</td>
     <td>mtraj method with the quantic function</td>
-  </tr>
-  <tr>
-    <td><img src="puma_jtraj.gif" alt="jtraj plan" width="400"></td>
-    <td><img src="puma_trap.gif" alt="trap plan" width="400"></td>
-    <td><img src="puma_quin.gif" alt="quin plan" width="400"></td>
   </tr>
 </table>
  
